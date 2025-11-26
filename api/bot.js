@@ -31,7 +31,7 @@ const MOBILE_API = "https://ox-tawny.vercel.app/search_mobile?api_key=taitanx&mo
 const AADHAR_API = "https://aadhar-3-family.vercel.app/fetch?key=Rose-X-Paid&aadhaar=";
 const VEHICLE_API = "https://vehicle-info-api-five.vercel.app/vehicle=";
 const PAK_API = "https://aadhar-3-family.vercel.app/fetch?key=Rose-X-Paid&aadhaar=";
-const PAK_MOBILE_API = "https://rose-x-bot.vercel.app/Rose-X/lookup/";
+const PAK_MOBILE_API = "https://scamer-ka-fuck.vercel.app/api/lookup/";
 
 // Blocked numbers
 const BLOCKED_NUMBERS = {

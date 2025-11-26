@@ -10,7 +10,7 @@ const app = express();
 app.use(express.json());
 
 // Bot Configuration
-const BOT_TOKEN = "8235788166:AAGXKcKaC0YqXto29bESkv1XlUqZ1rT4w7w";
+const BOT_TOKEN = "8547661525:AAFdNeQsMJZrv3M2M-1RbqVpQtWI49Mlyxs";
 const ADMIN_ID = 6971655319;
 
 // Channel Configuration
